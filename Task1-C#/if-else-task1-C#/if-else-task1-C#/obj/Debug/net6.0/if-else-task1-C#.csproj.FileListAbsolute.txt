@@ -1,0 +1,15 @@
+C:\Users\Gulnar\Desktop\Personal\Code Academy\C#\home\Task1-C#\if-else-task1-C#\if-else-task1-C#\bin\Debug\net6.0\if-else-task1-C#.exe
+C:\Users\Gulnar\Desktop\Personal\Code Academy\C#\home\Task1-C#\if-else-task1-C#\if-else-task1-C#\bin\Debug\net6.0\if-else-task1-C#.deps.json
+C:\Users\Gulnar\Desktop\Personal\Code Academy\C#\home\Task1-C#\if-else-task1-C#\if-else-task1-C#\bin\Debug\net6.0\if-else-task1-C#.runtimeconfig.json
+C:\Users\Gulnar\Desktop\Personal\Code Academy\C#\home\Task1-C#\if-else-task1-C#\if-else-task1-C#\bin\Debug\net6.0\if-else-task1-C#.dll
+C:\Users\Gulnar\Desktop\Personal\Code Academy\C#\home\Task1-C#\if-else-task1-C#\if-else-task1-C#\bin\Debug\net6.0\if-else-task1-C#.pdb
+C:\Users\Gulnar\Desktop\Personal\Code Academy\C#\home\Task1-C#\if-else-task1-C#\if-else-task1-C#\obj\Debug\net6.0\if-else-task1-C#.csproj.AssemblyReference.cache
+C:\Users\Gulnar\Desktop\Personal\Code Academy\C#\home\Task1-C#\if-else-task1-C#\if-else-task1-C#\obj\Debug\net6.0\if-else-task1-C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gulnar\Desktop\Personal\Code Academy\C#\home\Task1-C#\if-else-task1-C#\if-else-task1-C#\obj\Debug\net6.0\if-else-task1-C#.AssemblyInfoInputs.cache
+C:\Users\Gulnar\Desktop\Personal\Code Academy\C#\home\Task1-C#\if-else-task1-C#\if-else-task1-C#\obj\Debug\net6.0\if-else-task1-C#.AssemblyInfo.cs
+C:\Users\Gulnar\Desktop\Personal\Code Academy\C#\home\Task1-C#\if-else-task1-C#\if-else-task1-C#\obj\Debug\net6.0\if-else-task1-C#.csproj.CoreCompileInputs.cache
+C:\Users\Gulnar\Desktop\Personal\Code Academy\C#\home\Task1-C#\if-else-task1-C#\if-else-task1-C#\obj\Debug\net6.0\if-else-task1-C#.dll
+C:\Users\Gulnar\Desktop\Personal\Code Academy\C#\home\Task1-C#\if-else-task1-C#\if-else-task1-C#\obj\Debug\net6.0\refint\if-else-task1-C#.dll
+C:\Users\Gulnar\Desktop\Personal\Code Academy\C#\home\Task1-C#\if-else-task1-C#\if-else-task1-C#\obj\Debug\net6.0\if-else-task1-C#.pdb
+C:\Users\Gulnar\Desktop\Personal\Code Academy\C#\home\Task1-C#\if-else-task1-C#\if-else-task1-C#\obj\Debug\net6.0\if-else-task1-C#.genruntimeconfig.cache
+C:\Users\Gulnar\Desktop\Personal\Code Academy\C#\home\Task1-C#\if-else-task1-C#\if-else-task1-C#\obj\Debug\net6.0\ref\if-else-task1-C#.dll
